@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am in my third year of pursuing a Ph.D. in Computer Science, under the guidance of Prof. [Wenjie Ruan](https://wenjieruan.com/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). My research primarily focuses on adversarial robustness, model generalization, and black-box certification. Before that, I received my bachelor degree of engineering from the joint programme between Beijing University of Posts and Telecommunications and Queen Mary University of London.
+I am in my third year of pursuing a Ph.D. in Computer Science at the University of Liverpool, under the guidance of Prof. [Wenjie Ruan](https://wenjieruan.com/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). My research primarily focuses on adversarial robustness, model generalization, and black-box certification. Before that, I received my bachelor degree of engineering from the joint programme between Beijing University of Posts and Telecommunications and Queen Mary University of London.
 
 A data-driven personal website
 ======
