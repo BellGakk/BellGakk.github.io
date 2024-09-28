@@ -21,13 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Xiangyu Yin"
   pronouns         : "he/him"  
   bio              : "Ph.D. student in Trustworthy AI"
   location         : "Liverpool, GB"
   employer         : "University of Liverpool"
-  uri              : # URL
   email            : "xiangyuy@liverpool.ac.uk" 
 
   # Academic websites
