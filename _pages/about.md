@@ -10,20 +10,14 @@ Currenrly, I am in my third year of pursuing a Ph.D. in Computer Science at the 
 
 Education
 ======
-| **Institution**                                     | **Degree**                                  | **Years**         |
-|-----------------------------------------------------|---------------------------------------------|------------------|
-| University of Liverpool                             | Ph.D. in Computer Science                   | 2022-present     |
-| University of Exeter                                | Ph.D. in Computer Science                   | 2021-2022        |
-| Queen Mary University of London                     | Bachelor of Engineering                     | 2015-2020        |
-| Beijing University of Posts and Telecommunications  | Bachelor of Engineering (Joint Programme)   | 2015-2020        |
-<!-- - **University of Liverpool** (2022-present)  
+- **University of Liverpool** (2022-present)  
   Ph.D. in Computer Science
 - **University of Exeter** (2021-2022)  
   Ph.D. in Computer Science
 - **Queen Mary University of London** (2015-2020)  
-  Bachelor of Engineering (Joint Programme with BUPT)
+  Bachelor of Engineering (Joint Programme)
 - **Beijing University of Posts and Telecommunications** (2015-2020)  
-  Bachelor of Engineering (Joint Programme with QMUL) -->
+  Bachelor of Engineering (Joint Programme)
 
 Publications
 ======
