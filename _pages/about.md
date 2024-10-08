@@ -22,31 +22,38 @@ Education
 Publications
 ======
 1. **Continuous Geometry-Aware Graph Diffusion via Hyperbolic Neural PDE**  
-   *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2024*&nbsp;&nbsp;([paper](https://arxiv.org/pdf/2406.01282))<br>
+   *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2024*&nbsp;&nbsp;<br>
+   <!-- ([paper](https://arxiv.org/pdf/2406.01282)) -->
    **Authors**: Jiaxu, Liu; Xinping, Yi; Sihao, Wu; **Xiangyu, Yin**; Tianle, Zhang; Xiaowei, Huang; Jin, Shi 
 
 1. **Tiny Refinements Elicit Resilience: Toward Efficient Prefix-Model Against LLM Red-Teaming**  
-   *arXiv preprint arXiv:2405.12604*&nbsp;&nbsp;([paper](https://arxiv.org/pdf/2405.12604))<br>
+   *arXiv preprint arXiv:2405.12604*&nbsp;&nbsp;<br>
+   <!-- ([paper](https://arxiv.org/pdf/2405.12604)) -->
    **Authors**: Jiaxu, Liu; **Xiangyu, Yin**; Sihao, Wu; Jianhong, Wang; Meng, Fang; Xinping, Yi; Xiaowei, Huang 
 
 1. **Boosting Adversarial Training via Fisher-Rao Norm-based Regularization**  
-   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*&nbsp;&nbsp;([paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Boosting_Adversarial_Training_via_Fisher-Rao_Norm-based_Regularization_CVPR_2024_paper.pdf))<br>
+   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*&nbsp;&nbsp;<br>
+   <!-- ([paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Boosting_Adversarial_Training_via_Fisher-Rao_Norm-based_Regularization_CVPR_2024_paper.pdf)) -->
    **Authors**: **Xiangyu, Yin**; Wenjie Ruan 
 
 1. **Representation-Based Robustness in Goal-Conditioned Reinforcement Learning**  
-   *Proceedings of the AAAI Conference on Artificial Intelligence, 2024*&nbsp;&nbsp;([paper](https://ojs.aaai.org/index.php/AAAI/article/view/30176))<br>
+   *Proceedings of the AAAI Conference on Artificial Intelligence, 2024*&nbsp;&nbsp;<br>
+   <!-- ([paper](https://ojs.aaai.org/index.php/AAAI/article/view/30176)) -->
    **Authors**: **Xiangyu, Yin**; Sihao, Wu; Jiaxu, Liu; Meng, Fang; Xingyu, Zhao; Xiaowei, Huang; Wenjie, Ruan 
 
 1. **Dimba: discretely masked black-box attack in single object tracking**  
-   *Machine Learning, 2024*&nbsp;&nbsp;([paper](https://openreview.net/pdf?id=XO4tvoyQd4_))<br>
+   *Machine Learning, 2024*&nbsp;&nbsp;<br>
+   <!-- ([paper](https://openreview.net/pdf?id=XO4tvoyQd4_)) -->
    **Authors**: **Xiangyu, Yin**; Wenjie, Ruan; Jonathan, Fieldsend 
 
 1. **ODE4ViTRobustness: A tool for understanding adversarial robustness of Vision Transformers**  
-   *Software Impacts, 2023*&nbsp;&nbsp;([paper](https://scholar.archive.org/work/larbob4eh5e4bmu4wc7zrixbna/access/wayback/https://www.softwareimpacts.com/article/S2665-9638(22)00133-6/pdf))<br>
+   *Software Impacts, 2023*&nbsp;&nbsp;<br>
+   <!-- ([paper](https://scholar.archive.org/work/larbob4eh5e4bmu4wc7zrixbna/access/wayback/https://www.softwareimpacts.com/article/S2665-9638(22)00133-6/pdf)) -->
    **Authors**: Zheng, Wang; Wenjie, Ruan; **Xiangyu, Yin** 
 
 1. **Temple: Learning template of transitions for sample efficient multi-task rl**  
-   *Proceedings of the AAAI Conference on Artificial Intelligence, 2021*&nbsp;&nbsp;([paper](https://openreview.net/pdf?id=ZCY1mVtc0f))<br>
+   *Proceedings of the AAAI Conference on Artificial Intelligence, 2021*&nbsp;&nbsp;<br>
+   <!-- ([paper](https://openreview.net/pdf?id=ZCY1mVtc0f)) -->
    **Authors**: Yanchao, Sun; **Xiangyu, Yin**; Furong, Huang 
 
 
